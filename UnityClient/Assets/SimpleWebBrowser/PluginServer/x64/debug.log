@@ -1,0 +1,89 @@
+[0106/131830.016:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 17
+[0106/131854.026:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 105
+[0106/131854.069:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 29
+[0106/131854.383:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 31
+[0106/131854.385:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 35
+[0106/131854.385:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 33
+[0106/131906.718:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: data source error"}
+[0106/131920.651:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/131920.652:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/131920.776:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/131921.580:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/131931.346:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/131931.864:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/131931.888:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/131931.904:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/131936.651:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: data source error"}
+[0106/131941.588:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: data source error"}
+[0106/132004.686:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: data source error"}
+[0106/132005.536:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/132005.899:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/132017.485:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 11
+[0106/132017.509:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 259
+[0106/132017.511:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 255
+[0106/132031.570:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/132041.202:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/132043.121:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/132046.897:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0106/132303.059:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 19
+[0106/132303.060:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 17
+[0106/133003.230:ERROR:browser_host_impl.cc(1556)] Invalid URL passed to CefBrowserHostImpl::LoadURL: 
+[0106/133005.107:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133005.107:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133005.112:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133005.112:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133017.884:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133017.884:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133017.884:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133017.884:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133030.981:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133030.981:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133030.982:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133030.982:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133036.305:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 1
+[0106/133036.345:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 1
+[0106/133036.346:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 17
+[0106/133046.007:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133046.007:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133046.007:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133046.007:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133309.234:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133309.235:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133309.283:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133309.283:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133329.215:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133329.216:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133329.216:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133329.216:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133409.573:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0106/133409.573:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0106/133451.977:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133451.978:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133453.085:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133456.285:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 49
+[0106/133456.736:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 55
+[0106/133504.679:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133506.416:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 43
+[0106/133508.401:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 63
+[0106/133523.503:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 85
+[0106/133523.606:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 87
+[0106/133523.707:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 89
+[0106/133534.138:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0106/133534.402:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133545.743:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 175
+[0106/133622.828:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 23
+[0106/133622.956:WARNING:render_frame_host_impl.cc(2157)] OnDidStopLoading was called twice.
+[0106/133635.510:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133635.510:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133635.512:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133637.895:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 29
+[0106/133646.899:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133656.877:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133803.657:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133803.658:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133803.660:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0106/133808.972:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0107/131911.814:ERROR:broker_win.cc(59)] Error reading broker pipe: O pipe foi finalizado. (0x6D)
+[0107/131941.211:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0107/131941.239:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0107/131945.608:WARNING:quota_manager.cc(1833)] Create directory failed for path

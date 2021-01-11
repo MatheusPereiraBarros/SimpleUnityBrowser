@@ -1,0 +1,66 @@
+2021-01-06 13:18:01,826 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-06 13:18:01,935 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:43b05646-df24-48b5-ab73-3954874de4e8,inMem:e63dc4ef-fe5c-4152-b7db-900b03b4930a,outMem:2f41139f-c087-412c-9410-fba7101b6713, WebRtc:True,Enable GPU:False
+2021-01-06 13:18:13,362 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Nenhuma identificação de assembly para o tipo de objeto '83886080 MessageLibrary.EventPacket'.
+2021-01-06 13:18:23,147 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-01-06 13:18:25,620 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-06 13:18:25,662 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:2318b405-b402-4341-90f7-9b3ebee844b5,inMem:00d97396-13d6-4443-814a-66d1f5cfa303,outMem:0da4bde5-34ed-4eba-84cd-b4cf2feac762, WebRtc:True,Enable GPU:False
+2021-01-06 13:19:08,157 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:19:53,626 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:20:15,864 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:20:27,148 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FB] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:20:58,052 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-01-06 13:22:58,681 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-06 13:22:58,734 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:ed97c2bc-eed0-4658-8619-c49d925ff74e,inMem:0de2bb25-3be9-4e10-bc40-0d73cf96154d,outMem:1c741e5a-0f05-4f6b-8988-375af1096986, WebRtc:True,Enable GPU:False
+2021-01-06 13:23:22,888 [1] INFO  SharedPluginServer.App [(null)] - Exiting by timer,timeout:10000
+2021-01-06 13:23:22,888 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-01-06 13:26:06,680 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-06 13:26:06,731 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:37c4c2e8-89b9-465c-8cbf-4162731247d3,inMem:361f0343-0822-4c5c-98c0-7329cd879ce8,outMem:195250c5-f826-46a1-8c1f-0338e569d9e2, WebRtc:True,Enable GPU:False
+2021-01-06 13:26:19,775 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:26:31,695 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-01-06 13:26:38,287 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-06 13:26:38,329 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:https://webradio.amsolution.com.br/radio/8230/cocais,memfile:d708de67-33f8-4ada-b4b6-ee88e399c731,inMem:3ad82c2b-ab3c-4725-bbaf-480f8f7f2ff8,outMem:f33f8cce-1f00-40a7-9976-cb20963c282f, WebRtc:True,Enable GPU:False
+2021-01-06 13:26:58,207 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-01-06 13:27:05,131 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-06 13:27:05,178 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:fad95f05-f4cf-486e-9f49-19c3dddefa8d,inMem:4cc6962f-4bfb-4565-865f-ddbe96782243,outMem:b492d30a-bfae-414d-9c03-871ef5512c83, WebRtc:True,Enable GPU:False
+2021-01-06 13:27:07,131 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Nenhuma identificação de assembly para o tipo de objeto '512 MessageLibrary.EventPacket'.
+2021-01-06 13:27:24,503 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Nenhuma identificação de assembly para o tipo de objeto 'MessageLibrary.GenericEventType'.
+2021-01-06 13:27:28,078 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Nenhuma identificação de assembly para o tipo de objeto 'MessageLibrary.GenericEventType'.
+2021-01-06 13:27:35,261 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Nenhuma identificação de assembly para o tipo de objeto 'MessageLibrary.GenericEvent'.
+2021-01-06 13:27:35,559 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Nenhuma identificação de assembly para o tipo de objeto 'MessageLibrary.GenericEvent'.
+2021-01-06 13:27:36,636 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Nenhuma identificação de assembly para o tipo de objeto 'MessageLibrary.GenericEventType'.
+2021-01-06 13:27:46,689 [1] INFO  SharedPluginServer.App [(null)] - Exiting by timer,timeout:10000
+2021-01-06 13:27:46,689 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-01-06 13:29:52,002 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-06 13:29:52,049 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:6e18f5b3-6d36-44dc-8f73-1d8689996f8a,inMem:5e4a83e5-215c-4087-9c83-b4c650cafee3,outMem:feea7b87-b81b-4246-8a7e-a688554fc067, WebRtc:True,Enable GPU:False
+2021-01-06 13:30:44,890 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Nenhuma identificação de assembly para o tipo de objeto '83886080 MessageLibrary.EventPacket'.
+2021-01-06 13:30:57,547 [1] INFO  SharedPluginServer.App [(null)] - Exiting by timer,timeout:10000
+2021-01-06 13:30:57,548 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-01-06 13:32:58,740 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-06 13:32:58,791 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:7a4c506b-a689-40be-89da-191eb7885980,inMem:65103771-a324-4622-8439-6a1dcfd67176,outMem:346c5fbc-7bc6-4529-b6f9-c5323a049fe6, WebRtc:True,Enable GPU:False
+2021-01-06 13:33:18,445 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:33:24,675 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Nenhuma identificação de assembly para o tipo de objeto '83886080 MessageLibrary.EventPacket'.
+2021-01-06 13:33:33,080 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:33:35,924 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:33:39,435 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:35:01,953 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:35:45,539 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-01-06 13:36:18,004 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-06 13:36:18,053 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:f66a0683-4be3-4f08-b045-06bb39343efb,inMem:291e99ee-5833-4c06-9ce2-6ab6c3c943fe,outMem:1baef170-efc0-4384-ac90-1a71c096c69b, WebRtc:True,Enable GPU:False
+2021-01-06 13:36:29,048 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:36:31,134 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:36:33,003 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:36:39,323 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:37:10,444 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:37:20,910 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:37:26,010 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-01-06 13:37:37,804 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-06 13:37:37,846 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:https://www.youtube.com/watch?v=qmOLtTGvsbM&list=PLI6NDeV1gRamdgSKa0qBt1COKx-7Dun2p,memfile:0526ffc6-fdfc-4b9a-b6dd-7f654cd90ae2,inMem:7da33839-bdaf-4634-ac2a-0259a88ab58b,outMem:3ec267d1-3d1a-4e74-81bb-bb96d7eb4705, WebRtc:True,Enable GPU:False
+2021-01-06 13:37:55,002 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:37:58,382 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:38:00,979 [1] ERROR SharedPluginServer.Interprocess.SharedCommServer [(null)] - Serialization exception,length=10000:Não é possível converter bytes [FF] em índice 12 da página de código especificada para Unicode.
+2021-01-06 13:38:15,146 [1] INFO  SharedPluginServer.App [(null)] - Exiting by timer,timeout:10000
+2021-01-06 13:38:15,147 [1] INFO  SharedPluginServer.App [(null)] - ==============SHUTTING DOWN==========
+2021-01-07 13:19:02,805 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-07 13:19:03,077 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:500,height:500,url:http://www.google.com,memfile:a3a9cf2a-9c35-4f84-a57e-4f64eaf76183,inMem:bd23ef96-47c4-4aa8-98a3-122e800279e0,outMem:1929990b-f6ec-4263-9790-a3efb5dba32a, WebRtc:True,Enable GPU:False
+2021-01-07 13:19:28,115 [1] INFO  SharedPluginServer.Program [(null)] - ===============START================
+2021-01-07 13:19:28,166 [1] INFO  SharedPluginServer.Program [(null)] - Starting plugin, settings:width:1280,height:720,url:http://test.webrtc.org,memfile:MainSharedMem,inMem:InSharedMem,outMem:OutSharedMem, WebRtc:False,Enable GPU:False
